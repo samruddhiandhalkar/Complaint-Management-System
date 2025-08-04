@@ -52,12 +52,13 @@ Online Complaint Management System is a digital platform designed to help users 
 * Testig backend:
 <img width="600" height="600" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/83d16d2b-f464-4df3-b6e6-a19741c9225d" />
 
+
 📌 Contact Details:
 For any questions or feedback, feel free to connect:-
 
-Name: Samruddhi Andhalkar
-Email : samruddhiandhalkar2007@gmail.com
-GitHub: https://github.com/samruddhiandhalkar
+* Name: Samruddhi Andhalkar
+* Email : samruddhiandhalkar2007@gmail.com
+* GitHub: https://github.com/samruddhiandhalkar
 
 
 🎉 Enjoy using the Hostel Registration Form For Student Built RestAPI with JavaScript + HTML + CSS as forntend.
