@@ -37,3 +37,11 @@ Online Complaint Management System is a digital platform designed to help users 
 * Controller: ComplaintController
 * Service & Repository layers for logic and DB access
 
+🗂️ Project Structure:
+
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/48db19c0-885f-4e05-a5ae-50ae9248a285" />
+
+
+🖼️ Screenshot
+
+
