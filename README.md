@@ -7,7 +7,6 @@ Online Complaint Management System is a digital platform designed to help users 
 * Fields: Name, Email, Subject, Description
 
   ---
-
 ## 📥 2. Complaint Storage
 * Complaints are saved in a PostgreSQL database
 * Each complaint has a unique ID and timestamp
