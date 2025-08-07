@@ -2,7 +2,6 @@
 Online Complaint Management System is a digital platform designed to help users or citizens register their complaints easily through an online interface. It allows users to submit their complaints by filling out a simple form with details such as name, email, subject, and description. Once submitted, the complaint is forwarded to the concerned authority for review and resolution. This system replaces traditional paper-based processes, saving time and improving efficiency. It also increases transparency and ensures better tracking and faster resolution of issues. Such systems are useful in schools, colleges, government offices, and private organizations.
 
 ## 🔑 Key Features:
-
 📝 1. Complaint Registration
 * Users can submit complaints through an online form
 * Fields: Name, Email, Subject, Description
